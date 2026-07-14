@@ -25,11 +25,9 @@
 
 ## 🎬 真人出镜排版规则（【新增】贴在这里！）
 （把下面我给你的那段“四大铁律+4个模板”完整粘贴到这里）
+## 📂 行业方案库（点击可直接查看）
+- [`industries/finance.md`](industries/finance.md)  # 财税方案
+- [`industries/beauty.md`](industries/beauty.md)  # 美业方案（待更新）
+- [`industries/catering.md`](industries/catering.md)  # 餐饮方案（待更新）
+- [`industries/education.md`](industries/education.md)  # 教育方案（待更新）---
 
----
-
-## 📂 行业方案库（你的文件夹索引）
-- `industries/education.md` # 教育方案
-- `industries/beauty.md` # 美业方案
-- `industries/Tax.md` # 财税方案
-- `industries/catering.md` # 餐饮方案
